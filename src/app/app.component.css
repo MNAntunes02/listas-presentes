@@ -1,0 +1,23 @@
+.casas-bahia {
+    background-image: url('../assets/casas-bahia.png');
+    background-position: center;
+    background-size: contain;
+}
+
+.magalu {
+    background-image: url('../assets/magalu.png');
+    background-position: center;
+    background-size: contain;
+}
+
+.havan {
+    background-image: url('../assets/havan.png');
+    background-position: center;
+    background-size: contain;
+}
+
+.fast-shop {
+    background-image: url('../assets/fast-shop.png');
+    background-position: center;
+    background-size: contain;
+}
